@@ -1,0 +1,42 @@
+C:\UAI\2023\Desarrollo y Arquitectura de Software\2do Parcial\Tp_Trini\Modelo\bin\Debug\net6.0\Modelo.deps.json
+C:\UAI\2023\Desarrollo y Arquitectura de Software\2do Parcial\Tp_Trini\Modelo\bin\Debug\net6.0\Modelo.runtimeconfig.json
+C:\UAI\2023\Desarrollo y Arquitectura de Software\2do Parcial\Tp_Trini\Modelo\bin\Debug\net6.0\Modelo.dll
+C:\UAI\2023\Desarrollo y Arquitectura de Software\2do Parcial\Tp_Trini\Modelo\bin\Debug\net6.0\Modelo.pdb
+C:\UAI\2023\Desarrollo y Arquitectura de Software\2do Parcial\Tp_Trini\Modelo\obj\Debug\net6.0\Modelo.csproj.AssemblyReference.cache
+C:\UAI\2023\Desarrollo y Arquitectura de Software\2do Parcial\Tp_Trini\Modelo\obj\Debug\net6.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\UAI\2023\Desarrollo y Arquitectura de Software\2do Parcial\Tp_Trini\Modelo\obj\Debug\net6.0\Modelo.AssemblyInfoInputs.cache
+C:\UAI\2023\Desarrollo y Arquitectura de Software\2do Parcial\Tp_Trini\Modelo\obj\Debug\net6.0\Modelo.AssemblyInfo.cs
+C:\UAI\2023\Desarrollo y Arquitectura de Software\2do Parcial\Tp_Trini\Modelo\obj\Debug\net6.0\Modelo.csproj.CoreCompileInputs.cache
+C:\UAI\2023\Desarrollo y Arquitectura de Software\2do Parcial\Tp_Trini\Modelo\obj\Debug\net6.0\Modelo.dll
+C:\UAI\2023\Desarrollo y Arquitectura de Software\2do Parcial\Tp_Trini\Modelo\obj\Debug\net6.0\refint\Modelo.dll
+C:\UAI\2023\Desarrollo y Arquitectura de Software\2do Parcial\Tp_Trini\Modelo\obj\Debug\net6.0\Modelo.pdb
+C:\UAI\2023\Desarrollo y Arquitectura de Software\2do Parcial\Tp_Trini\Modelo\obj\Debug\net6.0\Modelo.genruntimeconfig.cache
+C:\UAI\2023\Desarrollo y Arquitectura de Software\2do Parcial\Tp_Trini\Modelo\obj\Debug\net6.0\ref\Modelo.dll
+C:\UAI\2023\Desarrollo y Arquitectura de Software\Tp_Trini\Modelo\bin\Debug\net6.0\Modelo.deps.json
+C:\UAI\2023\Desarrollo y Arquitectura de Software\Tp_Trini\Modelo\bin\Debug\net6.0\Modelo.runtimeconfig.json
+C:\UAI\2023\Desarrollo y Arquitectura de Software\Tp_Trini\Modelo\bin\Debug\net6.0\Modelo.dll
+C:\UAI\2023\Desarrollo y Arquitectura de Software\Tp_Trini\Modelo\bin\Debug\net6.0\Modelo.pdb
+C:\UAI\2023\Desarrollo y Arquitectura de Software\Tp_Trini\Modelo\obj\Debug\net6.0\Modelo.csproj.AssemblyReference.cache
+C:\UAI\2023\Desarrollo y Arquitectura de Software\Tp_Trini\Modelo\obj\Debug\net6.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\UAI\2023\Desarrollo y Arquitectura de Software\Tp_Trini\Modelo\obj\Debug\net6.0\Modelo.AssemblyInfoInputs.cache
+C:\UAI\2023\Desarrollo y Arquitectura de Software\Tp_Trini\Modelo\obj\Debug\net6.0\Modelo.AssemblyInfo.cs
+C:\UAI\2023\Desarrollo y Arquitectura de Software\Tp_Trini\Modelo\obj\Debug\net6.0\Modelo.csproj.CoreCompileInputs.cache
+C:\UAI\2023\Desarrollo y Arquitectura de Software\Tp_Trini\Modelo\obj\Debug\net6.0\Modelo.dll
+C:\UAI\2023\Desarrollo y Arquitectura de Software\Tp_Trini\Modelo\obj\Debug\net6.0\refint\Modelo.dll
+C:\UAI\2023\Desarrollo y Arquitectura de Software\Tp_Trini\Modelo\obj\Debug\net6.0\Modelo.pdb
+C:\UAI\2023\Desarrollo y Arquitectura de Software\Tp_Trini\Modelo\obj\Debug\net6.0\Modelo.genruntimeconfig.cache
+C:\UAI\2023\Desarrollo y Arquitectura de Software\Tp_Trini\Modelo\obj\Debug\net6.0\ref\Modelo.dll
+C:\UAI\2023\Desarrollo y Arquitectura de Software\CCP_Práctica\Modelo\bin\Debug\net6.0\Modelo.deps.json
+C:\UAI\2023\Desarrollo y Arquitectura de Software\CCP_Práctica\Modelo\bin\Debug\net6.0\Modelo.runtimeconfig.json
+C:\UAI\2023\Desarrollo y Arquitectura de Software\CCP_Práctica\Modelo\bin\Debug\net6.0\Modelo.dll
+C:\UAI\2023\Desarrollo y Arquitectura de Software\CCP_Práctica\Modelo\bin\Debug\net6.0\Modelo.pdb
+C:\UAI\2023\Desarrollo y Arquitectura de Software\CCP_Práctica\Modelo\obj\Debug\net6.0\Modelo.csproj.AssemblyReference.cache
+C:\UAI\2023\Desarrollo y Arquitectura de Software\CCP_Práctica\Modelo\obj\Debug\net6.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\UAI\2023\Desarrollo y Arquitectura de Software\CCP_Práctica\Modelo\obj\Debug\net6.0\Modelo.AssemblyInfoInputs.cache
+C:\UAI\2023\Desarrollo y Arquitectura de Software\CCP_Práctica\Modelo\obj\Debug\net6.0\Modelo.AssemblyInfo.cs
+C:\UAI\2023\Desarrollo y Arquitectura de Software\CCP_Práctica\Modelo\obj\Debug\net6.0\Modelo.csproj.CoreCompileInputs.cache
+C:\UAI\2023\Desarrollo y Arquitectura de Software\CCP_Práctica\Modelo\obj\Debug\net6.0\Modelo.dll
+C:\UAI\2023\Desarrollo y Arquitectura de Software\CCP_Práctica\Modelo\obj\Debug\net6.0\refint\Modelo.dll
+C:\UAI\2023\Desarrollo y Arquitectura de Software\CCP_Práctica\Modelo\obj\Debug\net6.0\Modelo.pdb
+C:\UAI\2023\Desarrollo y Arquitectura de Software\CCP_Práctica\Modelo\obj\Debug\net6.0\Modelo.genruntimeconfig.cache
+C:\UAI\2023\Desarrollo y Arquitectura de Software\CCP_Práctica\Modelo\obj\Debug\net6.0\ref\Modelo.dll

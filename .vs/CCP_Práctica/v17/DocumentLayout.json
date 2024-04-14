@@ -1,0 +1,426 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\vista\\formgestionarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\formgestionarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8ABD9F-1DDC-4802-B144-1485E7CFC55F}|Modelo\\Modelo.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\modelo\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8ABD9F-1DDC-4802-B144-1485E7CFC55F}|Modelo\\Modelo.csproj|solutionrelative:modelo\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\vista\\formclientesproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\formclientesproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|c:\\uai\\2023\\desarrollo y arquitectura de software\\ccp_pr\u00E1ctica\\vista\\formgestionarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\formgestionarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\vista\\formclientesproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\formclientesproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\vista\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\vista\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|c:\\uai\\2023\\desarrollo y arquitectura de software\\ccp_pr\u00E1ctica\\vista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612257CC-DC33-4EFB-8616-A536307DC340}|Controladora\\Controladora.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\controladora\\controladoraproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612257CC-DC33-4EFB-8616-A536307DC340}|Controladora\\Controladora.csproj|solutionrelative:controladora\\controladoraproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612257CC-DC33-4EFB-8616-A536307DC340}|Controladora\\Controladora.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\controladora\\gestionarcontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612257CC-DC33-4EFB-8616-A536307DC340}|Controladora\\Controladora.csproj|solutionrelative:controladora\\gestionarcontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\vista\\formclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\formclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\vista\\formclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\formclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612257CC-DC33-4EFB-8616-A536307DC340}|Controladora\\Controladora.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\controladora\\controladoraclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612257CC-DC33-4EFB-8616-A536307DC340}|Controladora\\Controladora.csproj|solutionrelative:controladora\\controladoraclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612257CC-DC33-4EFB-8616-A536307DC340}|Controladora\\Controladora.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\controladora\\controladoracategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612257CC-DC33-4EFB-8616-A536307DC340}|Controladora\\Controladora.csproj|solutionrelative:controladora\\controladoracategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8ABD9F-1DDC-4802-B144-1485E7CFC55F}|Modelo\\Modelo.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\modelo\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8ABD9F-1DDC-4802-B144-1485E7CFC55F}|Modelo\\Modelo.csproj|solutionrelative:modelo\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8ABD9F-1DDC-4802-B144-1485E7CFC55F}|Modelo\\Modelo.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\modelo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8ABD9F-1DDC-4802-B144-1485E7CFC55F}|Modelo\\Modelo.csproj|solutionrelative:modelo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8ABD9F-1DDC-4802-B144-1485E7CFC55F}|Modelo\\Modelo.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\modelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8ABD9F-1DDC-4802-B144-1485E7CFC55F}|Modelo\\Modelo.csproj|solutionrelative:modelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Modelo\\Migrations\\20240412193259_Final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modelo\\Migrations\\20240412193259_Final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\vista\\formproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\formproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\vista\\formcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\formcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\vista\\formcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\formcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\vista\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\vista\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8ABD9F-1DDC-4802-B144-1485E7CFC55F}|Modelo\\Modelo.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Modelo\\Migrations\\20240412210820_Final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8ABD9F-1DDC-4802-B144-1485E7CFC55F}|Modelo\\Modelo.csproj|solutionrelative:Modelo\\Migrations\\20240412210820_Final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormClientes.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Vista\\FormClientes.cs",
+              "RelativeDocumentMoniker": "Vista\\FormClientes.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Vista\\FormClientes.cs",
+              "RelativeToolTip": "Vista\\FormClientes.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:24:47.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormGestionarClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Vista\\FormGestionarClientes.cs",
+              "RelativeDocumentMoniker": "Vista\\FormGestionarClientes.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Vista\\FormGestionarClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\FormGestionarClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:27:03.441Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Vista\\FormProductos.cs",
+              "RelativeDocumentMoniker": "Vista\\FormProductos.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Vista\\FormProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\FormProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:25:31.628Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormProductos.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Vista\\FormProductos.cs",
+              "RelativeDocumentMoniker": "Vista\\FormProductos.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Vista\\FormProductos.cs",
+              "RelativeToolTip": "Vista\\FormProductos.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAmwGAAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:25:44.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormGestionarClientes.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Vista\\FormGestionarClientes.cs",
+              "RelativeDocumentMoniker": "Vista\\FormGestionarClientes.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Vista\\FormGestionarClientes.cs",
+              "RelativeToolTip": "Vista\\FormGestionarClientes.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAD4vy8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:31:27.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormClientesProductos.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Vista\\FormClientesProductos.cs",
+              "RelativeDocumentMoniker": "Vista\\FormClientesProductos.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Vista\\FormClientesProductos.cs",
+              "RelativeToolTip": "Vista\\FormClientesProductos.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAawFUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T20:36:10.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormClientesProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Vista\\FormClientesProductos.cs",
+              "RelativeDocumentMoniker": "Vista\\FormClientesProductos.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Vista\\FormClientesProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\FormClientesProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:26:00.707Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contexto.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Modelo\\Contexto.cs",
+              "RelativeDocumentMoniker": "Modelo\\Contexto.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Modelo\\Contexto.cs",
+              "RelativeToolTip": "Modelo\\Contexto.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwDAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:28:58.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ControladoraProductos.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Controladora\\ControladoraProductos.cs",
+              "RelativeDocumentMoniker": "Controladora\\ControladoraProductos.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Controladora\\ControladoraProductos.cs",
+              "RelativeToolTip": "Controladora\\ControladoraProductos.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAWwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:48:46.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Vista\\Program.cs",
+              "RelativeDocumentMoniker": "Vista\\Program.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Vista\\Program.cs",
+              "RelativeToolTip": "Vista\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T22:02:18.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Vista\\FormClientes.cs",
+              "RelativeDocumentMoniker": "Vista\\FormClientes.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Vista\\FormClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\FormClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:24:04.45Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GestionarContexto.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Controladora\\GestionarContexto.cs",
+              "RelativeDocumentMoniker": "Controladora\\GestionarContexto.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Controladora\\GestionarContexto.cs",
+              "RelativeToolTip": "Controladora\\GestionarContexto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T20:31:25.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ControladoraClientes.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Controladora\\ControladoraClientes.cs",
+              "RelativeDocumentMoniker": "Controladora\\ControladoraClientes.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Controladora\\ControladoraClientes.cs",
+              "RelativeToolTip": "Controladora\\ControladoraClientes.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAIAwwG0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T22:15:09.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240412210820_Final.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Modelo\\Migrations\\20240412210820_Final.cs",
+              "RelativeDocumentMoniker": "Modelo\\Migrations\\20240412210820_Final.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Modelo\\Migrations\\20240412210820_Final.cs",
+              "RelativeToolTip": "Modelo\\Migrations\\20240412210820_Final.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T21:08:20.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ControladoraCategorias.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Controladora\\ControladoraCategorias.cs",
+              "RelativeDocumentMoniker": "Controladora\\ControladoraCategorias.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Controladora\\ControladoraCategorias.cs",
+              "RelativeToolTip": "Controladora\\ControladoraCategorias.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAcwGwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T21:46:50.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Modelo\\Categoria.cs",
+              "RelativeDocumentMoniker": "Modelo\\Categoria.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Modelo\\Categoria.cs",
+              "RelativeToolTip": "Modelo\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T20:29:54.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Modelo\\Producto.cs",
+              "RelativeDocumentMoniker": "Modelo\\Producto.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Modelo\\Producto.cs",
+              "RelativeToolTip": "Modelo\\Producto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T20:44:57.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Modelo\\Cliente.cs",
+              "RelativeDocumentMoniker": "Modelo\\Cliente.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Modelo\\Cliente.cs",
+              "RelativeToolTip": "Modelo\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T19:00:15.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormProducto.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Vista\\FormProducto.cs",
+              "RelativeDocumentMoniker": "Vista\\FormProducto.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Vista\\FormProducto.cs",
+              "RelativeToolTip": "Vista\\FormProducto.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAD4v10AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T22:13:10.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Vista\\FormCliente.cs",
+              "RelativeDocumentMoniker": "Vista\\FormCliente.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Vista\\FormCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\FormCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:34:49.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240412193259_Final.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Modelo\\Migrations\\20240412193259_Final.cs",
+              "RelativeDocumentMoniker": "Modelo\\Migrations\\20240412193259_Final.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Modelo\\Migrations\\20240412193259_Final.cs",
+              "RelativeToolTip": "Modelo\\Migrations\\20240412193259_Final.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:32:59.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormCliente.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Vista\\FormCliente.cs",
+              "RelativeDocumentMoniker": "Vista\\FormCliente.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Vista\\FormCliente.cs",
+              "RelativeToolTip": "Vista\\FormCliente.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAD4v1UAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:39:47.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormMenu.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Vista\\FormMenu.cs",
+              "RelativeDocumentMoniker": "Vista\\FormMenu.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Vista\\FormMenu.cs",
+              "RelativeToolTip": "Vista\\FormMenu.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAWwC0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:23:59.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Vista\\FormMenu.cs",
+              "RelativeDocumentMoniker": "Vista\\FormMenu.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\CCP_Pr\u00E1ctica\\Vista\\FormMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\FormMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T21:47:09.344Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,543 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Modelo\\Migrations\\20240311214524_Final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modelo\\Migrations\\20240311214524_Final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8ABD9F-1DDC-4802-B144-1485E7CFC55F}|Modelo\\Modelo.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\modelo\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8ABD9F-1DDC-4802-B144-1485E7CFC55F}|Modelo\\Modelo.csproj|solutionrelative:modelo\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\vista\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\vista\\formclientesproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\formclientesproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\vista\\formclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\formclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\vista\\formclientesproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\formclientesproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\vista\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\vista\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8ABD9F-1DDC-4802-B144-1485E7CFC55F}|Modelo\\Modelo.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\modelo\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8ABD9F-1DDC-4802-B144-1485E7CFC55F}|Modelo\\Modelo.csproj|solutionrelative:modelo\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Modelo\\Migrations\\20240311213024_Final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modelo\\Migrations\\20240311213024_Final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612257CC-DC33-4EFB-8616-A536307DC340}|Controladora\\Controladora.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\controladora\\controladoracategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612257CC-DC33-4EFB-8616-A536307DC340}|Controladora\\Controladora.csproj|solutionrelative:controladora\\controladoracategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\vista\\formproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\formproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\vista\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\vista\\formproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\formproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\vista\\formcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\formcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\vista\\formcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\formcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\vista\\formcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\formcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\vista\\formclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\formclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\vista\\formcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\formcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|c:\\uai\\2023\\desarrollo y arquitectura de software\\tp_trini\\vista\\formclientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\formclientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\vista\\formcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\formcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612257CC-DC33-4EFB-8616-A536307DC340}|Controladora\\Controladora.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\controladora\\controladoraclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612257CC-DC33-4EFB-8616-A536307DC340}|Controladora\\Controladora.csproj|solutionrelative:controladora\\controladoraclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8ABD9F-1DDC-4802-B144-1485E7CFC55F}|Modelo\\Modelo.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\modelo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8ABD9F-1DDC-4802-B144-1485E7CFC55F}|Modelo\\Modelo.csproj|solutionrelative:modelo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\vista\\formcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\formcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\vista\\formcliente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\formcliente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\vista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F15190C-D91B-44BB-9632-C80AB084CFD8}|Vista\\Vista.csproj|solutionrelative:vista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612257CC-DC33-4EFB-8616-A536307DC340}|Controladora\\Controladora.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\controladora\\controladoraproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612257CC-DC33-4EFB-8616-A536307DC340}|Controladora\\Controladora.csproj|solutionrelative:controladora\\controladoraproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8ABD9F-1DDC-4802-B144-1485E7CFC55F}|Modelo\\Modelo.csproj|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\modelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8ABD9F-1DDC-4802-B144-1485E7CFC55F}|Modelo\\Modelo.csproj|solutionrelative:modelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\2do Parcial\\Tp_Trini\\modelo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\2do Parcial\\Tp_Trini\\controladora\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\2do Parcial\\Tp_Trini\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240311214524_Final.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Modelo\\Migrations\\20240311214524_Final.cs",
+              "RelativeDocumentMoniker": "Modelo\\Migrations\\20240311214524_Final.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Modelo\\Migrations\\20240311214524_Final.cs",
+              "RelativeToolTip": "Modelo\\Migrations\\20240311214524_Final.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T21:45:24.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormMenu.cs",
+              "RelativeDocumentMoniker": "Vista\\FormMenu.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\FormMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T18:37:32.46Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormProductos.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormProductos.cs",
+              "RelativeDocumentMoniker": "Vista\\FormProductos.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormProductos.cs",
+              "RelativeToolTip": "Vista\\FormProductos.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAmwFsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T19:07:53.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMenu.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormMenu.cs",
+              "RelativeDocumentMoniker": "Vista\\FormMenu.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormMenu.cs",
+              "RelativeToolTip": "Vista\\FormMenu.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAIwC8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T18:39:49.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormClientes.cs",
+              "RelativeDocumentMoniker": "Vista\\FormClientes.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\FormClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T20:22:37.914Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Modelo\\Categoria.cs",
+              "RelativeDocumentMoniker": "Modelo\\Categoria.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Modelo\\Categoria.cs",
+              "RelativeToolTip": "Modelo\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T18:12:01.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormProductos.cs",
+              "RelativeDocumentMoniker": "Vista\\FormProductos.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\FormProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T18:44:45.892Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormClientesProductos.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormClientesProductos.cs",
+              "RelativeDocumentMoniker": "Vista\\FormClientesProductos.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormClientesProductos.cs",
+              "RelativeToolTip": "Vista\\FormClientesProductos.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAIwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T18:45:31.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormClientesProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormClientesProductos.cs",
+              "RelativeDocumentMoniker": "Vista\\FormClientesProductos.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormClientesProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\FormClientesProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T18:45:06.593Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contexto.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Modelo\\Contexto.cs",
+              "RelativeDocumentMoniker": "Modelo\\Contexto.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Modelo\\Contexto.cs",
+              "RelativeToolTip": "Modelo\\Contexto.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA0wA0AAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T17:10:27.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ControladoraCategorias.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Controladora\\ControladoraCategorias.cs",
+              "RelativeDocumentMoniker": "Controladora\\ControladoraCategorias.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Controladora\\ControladoraCategorias.cs",
+              "RelativeToolTip": "Controladora\\ControladoraCategorias.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAjwB4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T18:21:21.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormProducto.cs",
+              "RelativeDocumentMoniker": "Vista\\FormProducto.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\FormProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T18:44:35.62Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240311213024_Final.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Modelo\\Migrations\\20240311213024_Final.cs",
+              "RelativeDocumentMoniker": "Modelo\\Migrations\\20240311213024_Final.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Modelo\\Migrations\\20240311213024_Final.cs",
+              "RelativeToolTip": "Modelo\\Migrations\\20240311213024_Final.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T21:30:24.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormCliente.cs",
+              "RelativeDocumentMoniker": "Vista\\FormCliente.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\FormCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T18:51:23.287Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormProducto.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormProducto.cs",
+              "RelativeDocumentMoniker": "Vista\\FormProducto.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormProducto.cs",
+              "RelativeToolTip": "Vista\\FormProducto.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAawE8AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T19:35:04.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormCategorias.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormCategorias.cs",
+              "RelativeDocumentMoniker": "Vista\\FormCategorias.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormCategorias.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\FormCategorias.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T18:44:23.327Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormCategoria.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormCategoria.cs",
+              "RelativeDocumentMoniker": "Vista\\FormCategoria.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormCategoria.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\FormCategoria.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T18:44:13.683Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormCategorias.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormCategorias.cs",
+              "RelativeDocumentMoniker": "Vista\\FormCategorias.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormCategorias.cs",
+              "RelativeToolTip": "Vista\\FormCategorias.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA9wCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T18:45:58.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormClientes.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormClientes.cs",
+              "RelativeDocumentMoniker": "Vista\\FormClientes.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormClientes.cs",
+              "RelativeToolTip": "Vista\\FormClientes.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAWwEQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T20:25:48.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormCliente.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormCliente.cs",
+              "RelativeDocumentMoniker": "Vista\\FormCliente.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormCliente.cs",
+              "RelativeToolTip": "Vista\\FormCliente.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAswF4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T18:08:13.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormClientes.Designer.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormClientes.Designer.cs",
+              "RelativeDocumentMoniker": "Vista\\FormClientes.Designer.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormClientes.Designer.cs",
+              "RelativeToolTip": "Vista\\FormClientes.Designer.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAuwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T20:26:00.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ControladoraClientes.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Controladora\\ControladoraClientes.cs",
+              "RelativeDocumentMoniker": "Controladora\\ControladoraClientes.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Controladora\\ControladoraClientes.cs",
+              "RelativeToolTip": "Controladora\\ControladoraClientes.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T18:21:52.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Modelo\\Producto.cs",
+              "RelativeDocumentMoniker": "Modelo\\Producto.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Modelo\\Producto.cs",
+              "RelativeToolTip": "Modelo\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T18:17:03.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormCategoria.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormCategoria.cs",
+              "RelativeDocumentMoniker": "Vista\\FormCategoria.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormCategoria.cs",
+              "RelativeToolTip": "Vista\\FormCategoria.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwDEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T18:58:26.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormCliente.Designer.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormCliente.Designer.cs",
+              "RelativeDocumentMoniker": "Vista\\FormCliente.Designer.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\FormCliente.Designer.cs",
+              "RelativeToolTip": "Vista\\FormCliente.Designer.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAEwGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T19:27:06.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\Program.cs",
+              "RelativeDocumentMoniker": "Vista\\Program.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Vista\\Program.cs",
+              "RelativeToolTip": "Vista\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T18:52:57.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ControladoraProductos.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Controladora\\ControladoraProductos.cs",
+              "RelativeDocumentMoniker": "Controladora\\ControladoraProductos.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Controladora\\ControladoraProductos.cs",
+              "RelativeToolTip": "Controladora\\ControladoraProductos.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T18:21:39.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Modelo\\Cliente.cs",
+              "RelativeDocumentMoniker": "Modelo\\Cliente.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\Tp_Trini\\Modelo\\Cliente.cs",
+              "RelativeToolTip": "Modelo\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:45:27.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\2do Parcial\\Tp_Trini\\Controladora\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\2do Parcial\\Tp_Trini\\Controladora\\Class1.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\2do Parcial\\Tp_Trini\\Controladora\\Class1.cs",
+              "RelativeToolTip": "..\\2do Parcial\\Tp_Trini\\Controladora\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:31:36.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\2do Parcial\\Tp_Trini\\Modelo\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\2do Parcial\\Tp_Trini\\Modelo\\Class1.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\2do Parcial\\Tp_Trini\\Modelo\\Class1.cs",
+              "RelativeToolTip": "..\\2do Parcial\\Tp_Trini\\Modelo\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:31:20.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\2do Parcial\\Tp_Trini\\Vista\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\2do Parcial\\Tp_Trini\\Vista\\Form1.cs",
+              "ToolTip": "C:\\UAI\\2023\\Desarrollo y Arquitectura de Software\\2do Parcial\\Tp_Trini\\Vista\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\2do Parcial\\Tp_Trini\\Vista\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:29:29.424Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
