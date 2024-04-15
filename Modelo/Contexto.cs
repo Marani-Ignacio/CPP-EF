@@ -28,12 +28,7 @@ namespace Modelo
             modelBuilder.Entity<Categoria>().HasKey(c => c.CategoriaID);
             modelBuilder.Entity<Categoria>().HasIndex(c => c.Codigo).IsUnique();
             modelBuilder.Entity<Categoria>().Property(c => c.Nombre).IsRequired();
-
-            // Configuracion de la tabla Productos.
-            modelBuilder.Entity<Producto>().ToTable("Productos");
-            modelBuilder.Entity<Producto>().HasKey(p => p.ProductoID);
-            modelBuilder.Entity<Producto>().HasIndex(p => p.Codigo).IsUnique();
-            modelBuilder.Entity<Producto>().Property(p => p.Nombre).IsRequired();
+            
             // Configuracion de la tabla Productos.
             modelBuilder.Entity<Producto>().ToTable("Productos");
             modelBuilder.Entity<Producto>().HasKey(p => p.ProductoID);
